@@ -1,0 +1,7 @@
+/*set custom gtk3/css code below */
+.xfce4-panel {
+	opacity: 0.8;
+}
+.xfce-terminal  { 
+	border-radius: 8px;
+}
